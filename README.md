@@ -9,7 +9,7 @@ A website that generates a random password using various sets of characters the 
 * Javascript
 
 ## Website
-https://chris-l985.github.io/Password_Generator/
+https://chris-l985.github.io/Password_Generator/Develop/index.html
 
 ## Contribution
 Made by Chris Lopez
